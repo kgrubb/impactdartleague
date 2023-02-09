@@ -49,10 +49,6 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-// navbar isn't transparent unless we override
-// .navbar {
-//   background-color: black !important;
-// }
 
 // override navbar brand to allow for a larger sized logo
 .navbar-item>img {

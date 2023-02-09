@@ -16,6 +16,7 @@
   width: 100%;
   height: 90%;
   overflow: hidden;
+  text-align: center;
 }
 ::-webkit-scrollbar {
   display: none;

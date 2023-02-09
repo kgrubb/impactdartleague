@@ -46,6 +46,7 @@
   background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.95)),
     url(../assets/banner-1.jpg);
   background-size: cover;
+  background-position: center;
   -moz-background-size: cover;
   position: absolute;
   height: 100%;
@@ -57,6 +58,7 @@
     url(../assets/banner-2.jpg);
   background-size: cover;
   -moz-background-size: cover;
+  background-position: center;
   position: absolute;
   height: 100%;
   width: 100%;
@@ -67,6 +69,7 @@
     url(../assets/banner-3.jpg);
   background-size: cover;
   -moz-background-size: cover;
+  background-position: center;
   position: absolute;
   height: 100%;
   width: 100%;
@@ -77,6 +80,7 @@
     url(../assets/banner-4.jpg);
   background-size: cover;
   -moz-background-size: cover;
+  background-position: center;
   position: absolute;
   height: 100%;
   width: 100%;
