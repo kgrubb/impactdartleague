@@ -4,7 +4,6 @@
       <thead>
         <tr>
           <th>Number</th>
-          <th>Team</th>
           <th>Player</th>
           <th>Matches Played</th>
           <th>Match W/L %</th>
@@ -18,7 +17,6 @@
       <tbody>
         <tr v-for="player in playerList" :key='player'>
           <td>{{player.Number}}</td>
-          <td>{{player.Team}}</td>
           <td>{{player.Player}}</td>
           <td>{{player['Matches Played']}}</td>
           <td>{{player['Match W/L %']}}</td>

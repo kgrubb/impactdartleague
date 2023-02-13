@@ -1,5 +1,8 @@
 {
-  "private": true,
+  "name": "impactdartleague.com",
+  "version": "1.0.0",
+  "description": "Website for Impact Dart League",
+  "author": "Keli Grubb",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
