@@ -23,9 +23,9 @@
           <NuxtLink to="/stats" class="navbar-item is-uppercase has-text-weight-bold">
             Player Stats
           </NuxtLink>
-          <!-- <NuxtLink to="/about" class="navbar-item is-uppercase has-text-weight-bold">
-            About
-          </NuxtLink> -->
+          <NuxtLink to="/contact" class="navbar-item is-uppercase has-text-weight-bold">
+            Contact Us
+          </NuxtLink>
         </div>
       </div>
     </nav>

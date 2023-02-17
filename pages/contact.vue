@@ -1,5 +1,5 @@
 <template>
   <section>
-    <p>about</p>
+    <Contact />
   </section>
 </template>

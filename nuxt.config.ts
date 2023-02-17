@@ -17,5 +17,6 @@ export default defineNuxtConfig({
   },
   css: [
     'bulma',
+    '@fortawesome/fontawesome-svg-core/styles.css',
   ],
 });
