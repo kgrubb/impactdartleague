@@ -5,31 +5,27 @@
         <h1 class="title is-1 has-text-centered is-uppercase">
           Contact Us
         </h1>
-        <div class="level">
-          <div class="level-item">
+        <br />
+        <h1 class="title is-4 has-text-centered">
+          For more up-to-date news, join our Facebook group, or send us an email
+        </h1>
+        <br />
+        <div class="has-text-centered">
+            <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/groups/impactdartleague/"
+              class="has-text-black">
+              <span class="icon is-large">
+                <font-awesome-icon icon="fa-brands fa-square-facebook" class="fa-2xl" />
+              </span>
+
+            </a>
             <!-- eslint-disable-next-line max-len -->
-            <form id="signup-form" method="post" action="mailto:&#109;&#97;&#105;&#108;&#116;&#111;&#58;%7A%69%69%70%65%72%66%6F%72%65%76%65%72%40%67%6D%61%69%6C%2E%63%6F%6D?subject=Impact Dart League Contact Inquiry">
-              <div class="field">
-                <label class="label">Name</label>
-                <div class="control">
-                  <input class="input" type="text" placeholder="name">
-                </div>
-              </div>
-              <div class="field">
-                <label class="label">Email</label>
-                <div class="control">
-                  <input class="input" type="email" placeholder="email">
-                </div>
-              </div>
-              <div class="field">
-                <label class="label">Message</label>
-                <div class="control">
-                  <textarea class="textarea" placeholder="message"></textarea>
-                </div>
-              </div>
-              <input type="submit" class="button is-primary" value="Send">
-            </form>
-          </div>
+            <a target="_blank" rel="noopener noreferrer" href="mailto:&#109;&#97;&#105;&#108;&#116;&#111;&#58;%7A%69%69%70%65%72%66%6F%72%65%76%65%72%40%67%6D%61%69%6C%2E%63%6F%6D?subject=Impact Dart League Contact Inquiry"
+              class="has-text-black">
+              <span class="icon is-large">
+                <font-awesome-icon icon="fa-solid fa-envelope" class="fa-2xl" />
+              </span>
+            </a>
+            <br />
         </div>
       </div>
     </div>
@@ -37,7 +33,7 @@
 </template>
 <style scoped>
 .has-bg-img {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5));
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(75, 0, 0, 0.5));
   background-size: cover;
 }
 </style>

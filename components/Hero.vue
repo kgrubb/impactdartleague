@@ -21,7 +21,7 @@
           Georgia's premier competitive dartsoft league
         </h1>
         <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/groups/impactdartleague/" class="has-text-light">
-          <font-awesome-icon icon="fa-brands fa-square-facebook" class="fa-xl" />
+          <font-awesome-icon icon="fa-brands fa-square-facebook" class="fa-2xl" />
         </a>
       </div>
     </div>
