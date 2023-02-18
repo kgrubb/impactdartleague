@@ -19,7 +19,7 @@
 
             </a>
             <!-- eslint-disable-next-line max-len -->
-            <a target="_blank" rel="noopener noreferrer" href="mailto:&#109;&#97;&#105;&#108;&#116;&#111;&#58;%7A%69%69%70%65%72%66%6F%72%65%76%65%72%40%67%6D%61%69%6C%2E%63%6F%6D?subject=Impact Dart League Contact Inquiry"
+            <a target="_blank" rel="noopener noreferrer" href="mailto:ziiperforever@gmail.com?subject=Impact Dart League Contact Inquiry"
               class="has-text-black">
               <span class="icon is-large">
                 <font-awesome-icon icon="fa-solid fa-envelope" class="fa-2xl" />
