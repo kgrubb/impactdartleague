@@ -1,1 +1,0 @@
-import{a as e,o as n,b as t,e as _,f as r}from"./entry.c3e88e53.js";const a={},f=_("p",null,"events",-1),l=[f];function d(c,o){return n(),t("section",null,l)}const i=e(a,[["render",d]]),u={};function m(c,o){const s=i;return n(),t("section",null,[r(s)])}const x=e(u,[["render",m]]);export{x as default};
