@@ -1,9 +1,9 @@
 <template>
   <section class="section">
-    <nav class="navbar is-spaced is-fixed-top is-transparent">
+    <nav class="navbar is-spaced is-fixed-top">
       <div class="navbar-brand">
         <a class="navbar-item" href="/">
-          <img src="../assets/logo.png" width="60" height="60">
+          <img src="../assets/logo.png" width="50" height="50">
         </a>
         <button @click="burger" class="button navbar-burger" data-target="navMenu"
           v-bind:class="{ 'is-active': activator }">

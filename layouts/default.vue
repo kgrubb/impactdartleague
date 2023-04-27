@@ -68,11 +68,4 @@ html {
 body {
   padding-top: 0px !important;
 }
-
-.navbar {
-  &.is-transparent {
-    background-color: transparent;
-    background-image: none;
-  }
-}
 </style>
