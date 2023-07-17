@@ -16,7 +16,7 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-vue": "^9.15.1",
-    "nuxt": "^3.6.2"
+    "nuxt": "^3.6.3"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
