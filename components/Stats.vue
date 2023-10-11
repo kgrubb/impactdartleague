@@ -1,5 +1,5 @@
 <template>
-  <section class="section table-container mt-6">
+  <section class="section table-container has-bg-img">
     <table class="table is-hoverable is-fullwidth">
       <thead>
         <tr>
@@ -55,3 +55,10 @@ export default {
   },
 };
 </script>
+<style scoped>
+.has-bg-img {
+  padding-top: 8em;
+  background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(75, 0, 0, 0.5));
+  background-size: cover;
+}
+</style>

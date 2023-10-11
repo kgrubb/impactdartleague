@@ -33,7 +33,7 @@
 </template>
 <style scoped>
 .has-bg-img {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(75, 0, 0, 0.5));
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(75, 0, 0, 0.5));
   background-size: cover;
 }
 </style>
