@@ -47,7 +47,7 @@
 
 .carouselOne {
   background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.75)),
-    url(../assets/banner-1-2.jpg);
+    url(../assets/banner-1.jpg);
   background-size: cover;
   background-position: center;
   -moz-background-size: cover;
@@ -58,7 +58,7 @@
 
 .carouselTwo {
   background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.75)),
-    url(../assets/banner-2-2.jpg);
+    url(../assets/banner-2.jpg);
   background-size: cover;
   -moz-background-size: cover;
   background-position: center;
@@ -69,7 +69,7 @@
 
 .carouselThree {
   background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.75)),
-    url(../assets/banner-3-2.jpg);
+    url(../assets/banner-3.jpg);
   background-size: cover;
   -moz-background-size: cover;
   background-position: center;
@@ -80,7 +80,7 @@
 
 .carouselFour {
   background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.75)),
-    url(../assets/banner-4-2.jpg);
+    url(../assets/banner-4.jpg);
   background-size: cover;
   -moz-background-size: cover;
   background-position: center;
