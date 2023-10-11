@@ -4,7 +4,7 @@
         <a class="navbar-item" href="/">
           <img src="../assets/logo.png" width="50" height="50">
         </a>
-        <button @click="burger" class="button navbar-burger" data-target="navMenu"
+        <button @click="burger" class="button navbar-burger has-text-white is-hoverable" data-target="navMenu"
           v-bind:class="{ 'is-active': activator }">
           <span></span>
           <span></span>
@@ -17,15 +17,24 @@
             Events
           </a> -->
           <NuxtLink
-            to="/rules" class="navbar-item is-uppercase has-text-weight-bold has-text-white">
+            to="/rules"
+            class="navbar-item is-uppercase has-text-weight-bold"
+            v-bind:class="activator ? '' : 'has-text-white'"
+            @click="closeBurger">
             Rules
           </NuxtLink>
           <NuxtLink
-            to="/stats" class="navbar-item is-uppercase has-text-weight-bold has-text-white">
+            to="/stats"
+            class="navbar-item is-uppercase has-text-weight-bold"
+            v-bind:class="activator ? '' : 'has-text-white'"
+            @click="closeBurger">
             Player Stats
           </NuxtLink>
           <NuxtLink
-            to="/contact" class="navbar-item is-uppercase has-text-weight-bold has-text-white">
+            to="/contact"
+            class="navbar-item is-uppercase has-text-weight-bold"
+            v-bind:class="activator ? '' : 'has-text-white'"
+            @click="closeBurger">
             Contact Us
           </NuxtLink>
         </div>
@@ -42,6 +51,10 @@ export default {
     };
   },
   methods: {
+    closeBurger() {
+      this.activator = false;
+      return this.activator;
+    },
     burger() {
       this.activator = !this.activator;
       return this.activator;

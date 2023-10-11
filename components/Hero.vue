@@ -79,7 +79,7 @@
 }
 
 .carouselFour {
-  background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.75)),
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.75)),
     url(../assets/banner-4.jpg);
   background-size: cover;
   -moz-background-size: cover;
