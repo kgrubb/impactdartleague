@@ -1,0 +1,1 @@
+import{_ as e,o as n,c as t,a as _,b as r}from"./entry.70a4c411.js";const a={},l=_("p",null,"events",-1),d=[l];function f(c,o){return n(),t("section",null,d)}const i=e(a,[["render",f]]),u={};function m(c,o){const s=i;return n(),t("section",null,[r(s)])}const x=e(u,[["render",m]]);export{x as default};
