@@ -26,6 +26,6 @@
     "bulma": "^0.9.4",
     "papaparse": "^5.4.1",
     "sass": "^1.82.0",
-    "sass-loader": "^16.0.3"
+    "sass-loader": "^16.0.4"
   }
 }
