@@ -1,1 +1,0 @@
-import{_ as n,o as t,c,a as r,b as _}from"./CWT6hyI7.js";const a={};function l(o,e){return t(),c("section",null,e[0]||(e[0]=[r("p",null,"events",-1)]))}const f=n(a,[["render",l]]),u={};function d(o,e){const s=f;return t(),c("section",null,[_(s)])}const m=n(u,[["render",d]]);export{m as default};
