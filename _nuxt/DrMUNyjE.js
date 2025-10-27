@@ -1,1 +1,0 @@
-import{_ as n,c as t,o as c,a as _,b as r}from"#entry";const a={};function l(s,e){return c(),t("section",null,[...e[0]||(e[0]=[_("p",null,"events",-1)])])}const f=Object.assign(n(a,[["render",l]]),{__name:"Events"}),u={};function i(s,e){const o=f;return c(),t("section",null,[r(o)])}const d=n(u,[["render",i]]);export{d as default};
